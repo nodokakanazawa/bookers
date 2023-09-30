@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+h1,h2,b{
+  font-family: 'Gabarito', cursive;
+font-family: 'Public Sans', sans-serif;
+}
+
+body{
+  color:#333333;
+  margin:33px;
+}
+
+tbody,label,p{
+  font-size:13px;
+}
+
+h2,p{
+  margin:16px 0;
+}
